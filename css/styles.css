@@ -9,17 +9,17 @@ img {
     background-color: blue;
 }
 
-h2 {
+.h2 {
   font-weight: bold;
   color: aqua;
 }
 
-h3 {
+.h3 {
   font-family: cursive;
   color: coral;
 }
 
-h4 {
+.h4 {
   font-weight: lighter;
   color: aliceblue;
   font-size: medium;
@@ -29,6 +29,6 @@ h4 {
   font-weight: bolder;
   font-size: x-large;
 }
-h1 {
+.h1 {
   text-align: center;
 }
